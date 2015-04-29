@@ -1,5 +1,6 @@
 # brain-throttling-library
 A JavaScript library to throttle (prioritize) requests to your brain
 
-## Of course this repo is empty, start sending pull requests! :) 
-But seriously let's build this before we all go insane. 
+## Of course this repo is empty, what where you thinking? start opening issues and sending pull requests! It shouldn't be impossible. 
+
+At least it's gauranteed that this framework will be useful :) 
